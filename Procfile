@@ -1,0 +1,1 @@
+web: gunicorn KasfiStore.wsgi
